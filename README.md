@@ -48,12 +48,7 @@ The first risk is the fault of hardware or software, this can mean that my home 
 
 In order to stop these risks from causing significant damage to the process, my contingences include having multiple computers that use unity to help if one computer has an issue, for example my home computer and the college computer. By doing this one computer having a problem will mean that the other one will be still available for use. For the internet not working it is the same with the multiple computers as if the internet is down I will be able to use the college computers to continue my work. This means that with these issues I am still able to continue my work. 
 
-The other kind of problem I can encounter are halts in real life sitiuations, for example me getting ill or my family making plans to go away etc. These plans are very difficult to plan contingences so instead I have allocated extra time within the development stages within this stage.
-
-
-
-
-
+The other kind of problem I can encounter are halts in real life sitiuations, for example me getting ill or my family making plans to go away etc. These plans are very difficult to plan contingences so instead I have allocated extra time within the development stages within this stage. This should be enough to make sure that any time that is taken up by events can be accounted for and worked on.
 
 
 

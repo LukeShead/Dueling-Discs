@@ -51,12 +51,18 @@ In order to stop these risks from causing significant damage to the process, my 
 The other kind of problem I can encounter are halts in real life sitiuations, for example me getting ill or my family making plans to go away etc. These plans are very difficult to plan contingences so instead I have allocated extra time within the development stages within this stage. This should be enough to make sure that any time that is taken up by events can be accounted for and worked on.
 
 
-### Feasibility Report
+## Feasibility Report
+
+### Proposed Project Description:
+
+The Project will be planned in stages and with it I will be using the Waterfall cycle for software development, this means that I will plan the whole process, from there each stage will be individually planned and completed. These individual sections will be fully completed and tested before I move onto the next stage of the process, using this method allows me to manage the project a lot better as it gives me more control over each section of the project, this means that there will be a very small risk of many bugs happening within the game as each stage will be looked at as the project is developed. This will increase the chances of having no bugs within the game as when one appears, I will be able to know exactly where the bug is located and be able to complete it before any more problems arise. 
+
+The scope of the project will be able to be managed in a way that is safe for me, the costs of the project will be calculated as the project continues, for this some money has been put aside for resouces that are needed for the project, an estimate of £50 has been made as the project will mainly be investing time for it to be complete. The timescale of this project will span over a few months, however all dates will be in the gantt chart, they will mark the time I have for this project.
+
+### Market Analysis Section
 
 
+### Technical Feasibility
 
 
-
-
-
-
+### Financial Feasibility Section

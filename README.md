@@ -46,7 +46,9 @@ With designing and developing the project, there are many risks that can hinder 
 
 The first risk is the fault of hardware or software, this can mean that my home computer or unity software can have issues, as well as this my internet router or my USB can all have faults that can slow the process of development. If my PC was to stop working then it would mean that the amount of work that I can do will have a massive impact as my work that can be done as home will be stopped until it's repaired, Unity crashing would mean a reinstallment of the software which would take time to do. If the internet router was to have a fault, then I would not be able to retrieve my work as it will be saved on the cloud, also most study materials will not be able to be retrieved. This means that my work would be limited to the knowledge that I have and cannot learn more to implement more into the game.
 
-In order to stop these risks from causing significant damage to the process, my contingences include having 
+In order to stop these risks from causing significant damage to the process, my contingences include having multiple computers that use unity to help if one computer has an issue, for example my home computer and the college computer. By doing this one computer having a problem will mean that the other one will be still available for use. For the internet not working it is the same with the multiple computers as if the internet is down I will be able to use the college computers to continue my work. This means that with these issues I am still able to continue my work. 
+
+The other kind of problem I can encounter are halts in real life sitiuations, for example me getting ill or my family making plans to go away etc. These plans are very difficult to plan contingences so instead I have allocated extra time within the development stages within this stage.
 
 
 

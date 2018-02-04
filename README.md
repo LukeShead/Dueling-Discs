@@ -61,8 +61,16 @@ The scope of the project will be able to be managed in a way that is safe for me
 
 ### Market Analysis Section
 
+The game will be under the name of reboot games, from this will it be marketed and given to the public, the game will include a very minor microtransactions system that will involve athstetics for the circles, this will be very minor but can be an extra feature for people that want a bit more out of the game. Since the cost of developing the project will be a very low cost it means that the price for profit will not be very high, however the main use of this will for people to have this game for free, with this it will entice people to play it a lot more and if they want to they can buy athsetics and won't be forced to.
 
 ### Technical Feasibility
 
+With specialist resources that are required, the only resource that is more specialist is Unity which is free, however the Unity pro costs money, however the Pro has already been acquired so there isn't any special resources that are needed for now.
 
 ### Financial Feasibility Section
+
+The implementation of the game will be very simple, it will be a downloadable application that can be downloaded from any source, I am planning on using Gamejolt or some other form of application download platform in order to implement it on user's system. The plan is to have it for PC however I will try to make a platform for android as well in order to make it easier to access. Because of this there will be no need for any costs to be able to implement it as the files can be put anyway for free.
+
+
+
+

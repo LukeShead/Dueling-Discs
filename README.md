@@ -38,7 +38,7 @@ The scope of the project is purely shown by the features that are within the gam
 
 ## Time management and Schedule,
 
-![2nd concept](https://github.com/LukeShead/Dueling-Discs/blob/master/Shorter%20Gantt%20Chart.xlsx)
+![Gantt Chart](https://github.com/LukeShead/Dueling-Discs/blob/master/Gantt%20Chart.jpg)
 
 Enter Gantt Chart and Schedule here  TO BE COMPLETED!!!
 

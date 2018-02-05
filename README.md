@@ -72,5 +72,8 @@ With specialist resources that are required, the only resource that is more spec
 The implementation of the game will be very simple, it will be a downloadable application that can be downloaded from any source, I am planning on using Gamejolt or some other form of application download platform in order to implement it on user's system. The plan is to have it for PC however I will try to make a platform for android as well in order to make it easier to access. Because of this there will be no need for any costs to be able to implement it as the files can be put anyway for free.
 
 
+### 
+
+
 
 

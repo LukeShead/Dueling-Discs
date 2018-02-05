@@ -6,6 +6,7 @@ This will be my Capstone project for the first year of my HND course.
 Dueling Disks is a game that I will be building for my first year capstone project, it shall be a remake of retro games, it takes inspiration from games like Pong and Tron.  The objective of the game is to beat your opponent by clashing your disc at a better angle than your opponent.
 Both Players will start off at either side of the screen, there will be no movement from the X or Z axis, only the Y axis will be available for the players at the start of the game. Players will move their avatar up or down, once they lock their position, they will aim their discs. 
 
+
 ## Map and Design,
 
 The map will be a rectangular box to start with however if successful I will be adding obstacles within the map. 
@@ -64,6 +65,9 @@ The scope of the project will be able to be managed in a way that is safe for me
 ### Market Analysis Section
 
 The game will be under the name of reboot games, from this will it be marketed and given to the public, the game will include a very minor microtransactions system that will involve athstetics for the circles, this will be very minor but can be an extra feature for people that want a bit more out of the game. Since the cost of developing the project will be a very low cost it means that the price for profit will not be very high, however the main use of this will for people to have this game for free, with this it will entice people to play it a lot more and if they want to they can buy athsetics and won't be forced to.
+
+The game will be targeted towards children to young adults, it will be very useful for a short entertainment session so people that travel a lot will be enticed just as much as someone who is just looking to fill in some time at home.
+
 
 ### Technical Feasibility
 

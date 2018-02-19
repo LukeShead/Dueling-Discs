@@ -78,8 +78,11 @@ With specialist resources that are required, the only resource that is more spec
 The implementation of the game will be very simple, it will be a downloadable application that can be downloaded from any source, I am planning on using Gamejolt or some other form of application download platform in order to implement it on user's system. The plan is to have it for PC however I will try to make a platform for android as well in order to make it easier to access. Because of this there will be no need for any costs to be able to implement it as the files can be put anyway for free.
 
 
-### 
+### Software development vulnerabilities and how to reduce them
 
 
+When developing software, there are many ways that it can be exploited by attackers, this can be done in many ways however the biggest way is by discovering and exploiting vulnerabilities within the system, this is because it is where the software is easier to exploit. 
+
+For example, one of the most common vulnerabilities come from user inputs, this is where the user of a system can use an input to command the software to do things that could be considered malicious such as deleting information and data stored upon the system or being able to retreive the information in order to gain profit from them. These usually will come with softwares that have a database built into them, these are known as SQL injections, these can be very dangerous for a company or team that allow this type of vulnerability to be exploited as it can lead to the DPA (Data Protection Act) being broken and the team facing a penalty for it, this can mean losing thousands of pounds in fines. This is why this type of vulnerability is great for a
 
 

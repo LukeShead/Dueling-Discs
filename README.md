@@ -87,5 +87,4 @@ For example, one of the most common vulnerabilities come from user inputs, this 
 
 Unlike SQL injections with database input vulnerabilities, there are many different forms of vulnerabilities that can be exploited without the situational database. For example one vulnerability that is commmonly used is the amount of memory that a system can handle, every system has an amount of memory that they can use in order to complete the tasks, this means that the system can run out of memory and crash if a task that is too big for it is attempted. This is something that can be exploited on almost any system if given the opportunity, it can be something simple from a home PC to a company system. The ways to reduce this vulnerability require a lot of areas to be covered which means it is not as easy to reduce, however it is not a vulnerability that can be used to completly delete or destroy a system, the most it can do is hinder or stop a system temporarily. Because of this it is not a vulnerability that is very dangerous however it can lead to other exploits due to its ability to stop systems.
 
-Those are just two of the many vulnerabilities that can mean that a software will be ruined
-
+Those are just two of the many vulnerabilities that can mean that a software can be 

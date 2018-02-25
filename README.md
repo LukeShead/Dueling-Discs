@@ -79,8 +79,11 @@ Because of the randomness of the risk the only real contingency for it is to all
 
 With this project there are many risks that are involved with it, this can come into all stages from the designing to the development of the project even when testing these risks can be managed through a variety of methods, I will be managing mine through using the waterfall development cycle. What this means is that through each stage of the project, I will make sure the part I am working on will be fully completed before I am able to move on to the next part. This includes testing on the part to make sure everything is going as planned, for example when developing the game I will make sure to test each individual feature as it is being built, this will ensure that all the bugs that appear with the features will be dealt with before they can make a big impact onto the game. By doing this the risks of the project should be managed well. 
 
+## Communication,
+I am not working in a team for building the game, however the planning stage can be done with other people that are with me as they can give me ideas of how to improve the game, as well as this any chances to have more ideas I can communicate with them some more. As well as this if I need help with any part of the development or testing I can ask for help with people in my class. Also when doing research for the game, I will be presenting a demo to people in an attempt to do survey to see how I can improve the game.
 
-## Feasibility Report
+
+# Feasibility Report
 
 ### Proposed Project Description:
 

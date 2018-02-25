@@ -34,10 +34,20 @@ The main aim of this project is to be able to create an enjoyable experience for
 
 Being my first game I will be creating, the quality of the graphics and gameplay will not be up to standards for some people, however luckily having a simple artstyle means I can work on gameplay more than the graphics as there is not much need to make an intentionally simple looking game overcomplicated. With the gameplay, I will be hoping to improve the quality to a smooth and fluid style that will feel satisfactiory for the users to play. 
 
-
 ## Cost of the game
 
 The cost for the game won’t be any money for assets as I will be making them myself and will not need a third party change as the graphics are very simple. Instead it will require a lot of time as it will take some time to make. As well as this the internet will be required to make this game as there will be a lot of research that will need to be done. Finally, Unity will be required to make this project as it is extremely helpful when creating a game, these are all costs for the project however with these means that I must use a system that can run them, because if they don’t or if there are slow it will cause problems for the development.
+
+## Resources of the game
+
+### Hardware
+The first thing I will need is a PC that can run unity and also can be used to test the game well, my home PC is able to do these two things, as well as this I will need another system to run and test, this is in case something happens to my home PC and means I can't work from home. For this is am able to use the PC's that are provided in college, I have been given access to the room so I will be able to access the room any time in the weekday, this will allow me to continue working even if a problem occurs with my PC.
+
+### Software
+The most important piece of software on this project is Unity, this will allow me to build this game much easier than other softwares, because of this I need at least two computers that have Unity on them, the two PC's will be my home PC and the college PC's, this means that I should still be able to use Unity to help build my game.
+
+### Other
+On top of this, I will need a constant internet connection with access to a search engine like google chrome as I will be saving my project to the cloud, this means I can access it anywhere however, if there is no internet access there will not be a way to access the project after it has been saved.
 
 ## Scope of the game
 

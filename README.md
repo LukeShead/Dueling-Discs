@@ -32,7 +32,7 @@ The main aim of this project is to be able to create an enjoyable experience for
 
 ## Quality of the game
 
-Being my first game I will be creating, the quality of the graphics and gameplay will not be up to standards for some people, however luckily having a simple artstyle means I can work on gameplay more than the graphics as there is not much need to make an intentionally simple looking game overcomplicated. With the gameplay, I will be hoping to improve the quality to a smooth and fluid style that will feel satisfactiory for the users to play. 
+Being my first game I will be creating, the quality of the graphics and gameplay will not be up to standards for some people, however luckily having a simple artstyle means I can work on gameplay more than the graphics as there is not much need to make an intentionally simple looking game overcomplicated. With the gameplay, I will be hoping to improve the quality to a smooth and fluid style that will feel satisfactiory for the users to play. The quality of this game will be kept by having constant testing and debugging to make sure that the game is of a suitable quality.
 
 ## Cost of the game
 

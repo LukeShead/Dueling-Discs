@@ -30,6 +30,11 @@ If the discs are facing each other and collide head on, the winner will be who h
 
 The main aim of this project is to be able to create an enjoyable experience for any users that want to play the game that I am creating. However as much as the objectives and aims are for the user’s entertainment, it is also to help myself to gain knowledge when looking at designing and creating programs. By having this project provide an entertaining experience to the users that try it will mean that I will be able to help my reputation grow as a developer, this will mean that the future will become easier to gain clients as I will be able to refer back to programs I have made before. 
 
+## Quality of the game
+
+Being my first game I will be creating, the quality of the graphics and gameplay will not be up to standards for some people, however luckily having a simple artstyle means I can work on gameplay more than the graphics as there is not much need to make an intentionally simple looking game overcomplicated. With the gameplay, I will be hoping to improve the quality to a smooth and fluid style that will feel satisfactiory for the users to play. 
+
+
 ## Cost of the game
 
 The cost for the game won’t be any money for assets as I will be making them myself and will not need a third party change as the graphics are very simple. Instead it will require a lot of time as it will take some time to make. As well as this the internet will be required to make this game as there will be a lot of research that will need to be done. Finally, Unity will be required to make this project as it is extremely helpful when creating a game, these are all costs for the project however with these means that I must use a system that can run them, because if they don’t or if there are slow it will cause problems for the development.
@@ -49,11 +54,20 @@ Enter Gantt Chart and Schedule here  TO BE COMPLETED!!!
 
 With designing and developing the project, there are many risks that can hinder the process, with each risk, a contingency must be planned in order to stop the risk from being too harmful to the process.
 
+#### Risk no.1
 The first risk is the fault of hardware or software, this can mean that my home computer or unity software can have issues, as well as this my internet router or my USB can all have faults that can slow the process of development. If my PC was to stop working then it would mean that the amount of work that I can do will have a massive impact as my work that can be done as home will be stopped until it's repaired, Unity crashing would mean a reinstallment of the software which would take time to do. If the internet router was to have a fault, then I would not be able to retrieve my work as it will be saved on the cloud, also most study materials will not be able to be retrieved. This means that my work would be limited to the knowledge that I have and cannot learn more to implement more into the game.
 
+#### Contingency no.1
 In order to stop these risks from causing significant damage to the process, my contingences include having multiple computers that use unity to help if one computer has an issue, for example my home computer and the college computer. By doing this one computer having a problem will mean that the other one will be still available for use. For the internet not working it is the same with the multiple computers as if the internet is down I will be able to use the college computers to continue my work. This means that with these issues I am still able to continue my work. 
 
-The other kind of problem I can encounter are halts in real life sitiuations, for example me getting ill or my family making plans to go away etc. These plans are very difficult to plan contingences so instead I have allocated extra time within the development stages within this stage. This should be enough to make sure that any time that is taken up by events can be accounted for and worked on.
+#### Risk no.2
+The other kind of problem I can encounter are halts in real life sitiuations, for example me getting ill or my family making plans to go away etc. These can be very hard to manage as they can be more unexpected and aren't a problem as much of a time consumer, these can come from all sources around a persons life, whether it being a more important matter or just plans that were made earlier in time, they can still be very impactful no matter the situation.
+
+#### Contingency no.2
+Because of the randomness of the risk the only real contingency for it is to allocate extra time into the project stages, this means keeping a few days free before the stage transition in order to make sure that if days are used up then they can be made back by using the contingency days. This would allow me to have some time consumers added into the schedule as the time I have allocated can be used still without running out.
+
+
+With this project there are many risks that are involved with it, this can come into all stages from the designing to the development of the project even when testing these risks can be managed through a variety of methods, I will be managing mine through using the waterfall development cycle. What this means is that through each stage of the project, I will make sure the part I am working on will be fully completed before I am able to move on to the next part. This includes testing on the part to make sure everything is going as planned, for example when developing the game I will make sure to test each individual feature as it is being built, this will ensure that all the bugs that appear with the features will be dealt with before they can make a big impact onto the game. By doing this the risks of the project should be managed well. 
 
 
 ## Feasibility Report

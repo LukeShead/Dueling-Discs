@@ -120,7 +120,7 @@ For example, one of the most common vulnerabilities come from user inputs, this 
 Unlike SQL injections with database input vulnerabilities, there are many different forms of vulnerabilities that can be exploited without the situational database. For example one vulnerability that is commmonly used is the amount of memory that a system can handle, every system has an amount of memory that they can use in order to complete the tasks, this means that the system can run out of memory and crash if a task that is too big for it is attempted. This is something that can be exploited on almost any system if given the opportunity, it can be something simple from a home PC to a company system. The ways to reduce this vulnerability require a lot of areas to be covered which means it is not as easy to reduce, however it is not a vulnerability that can be used to completly delete or destroy a system, the most it can do is hinder or stop a system temporarily. Because of this it is not a vulnerability that is very dangerous however it can lead to other exploits due to its ability to stop systems.
 
 #### Social engineering.
-With many exploits being within the system or software, one of the most common ways a person will try to expose a system or software is with a technique called social engineering, this is the act of when a person will not find a vulnerability within the system but use another person to make a mistake and allow them access to the system. This is the reason no system is 100% safe, as people can always make mistakes whereas systems can only do what they are told, companies will always advise their employees to be cautious when handling sensitive information. Even though it is advised against, some people will still make mistakes as it is impossible to never make mistakes, this can come by clicking on an email that is false, or by using a USB that they found outside to see what is on it.
+With many exploits being within the system or software, one of the most common ways a person will try to expose a system or software is with a technique called social engineering, this is the act of when a person will not find a vulnerability within the system but use another person to make a mistake and allow them access to the system. This is the reason no system is 100% safe, as people can always make mistakes whereas systems can only do what they are told, companies will always advise their employees to be cautious when handling sensitive information. Even though it is advised against, some people will still make mistakes as it is impossible to never make mistakes, this can come by clicking on an email that is false, or by using a USB that they found outside to see what is on it, this can cause a massive breach within the system and the company that owns it.
 
 ## Ways to help reduce vulnerabilities and increase security on a system or software
 
@@ -133,5 +133,18 @@ When looking at the common user inputs vulnerability, companies cannot control p
 Another way that developers reduce the vulnerabilites within the input is situational depending on the type of input area, it is the measure of only allowing a certain type of characters in the area or just blocking out a specific type of characters. This can stop many different types of attacks, however as said before it is very situational, this is because sometimes an area may have the need to use different characters, for example an address area would require numbers and letters so they cannot be blocked.
 
 Other than this many companies will set up backups for the database as well as encryptions to make sure that no-one can get completely destroy a system, with this it means that if someone wanted to delete the database's data, they would be able to retrieve it. However this will not stop people from attempting to steal the information, this is why many companies will encrypt the information within the database in order to not allow any malicous hackers to get the information if they do steal it. And if they do it may be a longer time before they can retrieve any information from it, this may be anough time to find the people and get the data back before any damage is done.
+
+### Keeping employees safe.
+As there are many employees that work for a company, there are many oppurtunities to exploit a company using social engineering, people can use emails, skype messages and even through physical forms such as impersonating people within the company to gain access to higher information. 
+
+#### Personal Emails
+In order to keep these kind of things from happening, companies will ensure measures such as having personal work emails that can only be accessed when the employees are in the workplace, this method stops any unwanted mail coming into the workplace that could be in some way malicous. This can keep away all types of attacks that requires a file to be sent by email, this means that in order to have these attacks on the company, an attacker must find out the email first before sending it, this is much more work for the attacker.
+
+As well as 
+
+
+
+
+
 
 

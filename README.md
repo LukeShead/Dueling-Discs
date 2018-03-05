@@ -140,7 +140,13 @@ As there are many employees that work for a company, there are many oppurtunitie
 #### Personal Emails
 In order to keep these kind of things from happening, companies will ensure measures such as having personal work emails that can only be accessed when the employees are in the workplace, this method stops any unwanted mail coming into the workplace that could be in some way malicous. This can keep away all types of attacks that requires a file to be sent by email, this means that in order to have these attacks on the company, an attacker must find out the email first before sending it, this is much more work for the attacker.
 
-As well as 
+#### Entrance Requirements
+As well as the emails, there are many companies that to stop fraud in the company, will use a method of using some form of verification system when entering or exiting the company, for example a code that an employee is given when joining the company that allows them to clock in and clock out when entering and leaving the workplace or fingerprints with each employee. This method stops any type of physical entrance or fraud from someone with malicous intent, however again these methods can be worked around but doing so will be another big problem for malicous attackers to solve before they can access a system.
+
+#### Company Equipment
+This is where companies will give their employees equipment to use in work and only for work, these can be laptops, phones or storage devices such as USB's or external hard drive. This is to ensure that their employees will not use any type of device that is bought or found outside the workplace, many attackers will try to use USB's with malicous software on them to lure people to giving access to the system. This can happen by leaving or dropping USB's outside a workplace in an attempt to lure someone to take one and plug it in on their work system, the USB's will usually have some form of malicous software that will give access to the attacker with the USB being connected to a workplace system.
+
+
 
 
 

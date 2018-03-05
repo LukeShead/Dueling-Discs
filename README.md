@@ -109,7 +109,6 @@ The implementation of the game will be very simple, it will be a downloadable ap
 
 ## Software development vulnerabilities and how to reduce them within the game
 
-
 ### Possible vulnerabilities within a system or software
 When developing software, there are many ways that it can be exploited by attackers, this can be done in many ways however the biggest way is by discovering and exploiting vulnerabilities within the system, this is because it is where the software is easier to exploit. 
 
@@ -146,11 +145,8 @@ As well as the emails, there are many companies that to stop fraud in the compan
 #### Company Equipment
 This is where companies will give their employees equipment to use in work and only for work, these can be laptops, phones or storage devices such as USB's or external hard drive. This is to ensure that their employees will not use any type of device that is bought or found outside the workplace, many attackers will try to use USB's with malicous software on them to lure people to giving access to the system. This can happen by leaving or dropping USB's outside a workplace in an attempt to lure someone to take one and plug it in on their work system, the USB's will usually have some form of malicous software that will give access to the attacker with the USB being connected to a workplace system.
 
-
-
-
-
-
+#### System analysis
+This is one of the more technical methods, this is where a company will use this technique to analyse and check it all for problems, this method allows for comprehensive feedback as the system analysis will be used all over the system, all parts of it will be checked and tested to make sure they is not a vulnerability within the system. Because of the importance of the research, it means that sometimes there will be a third party team involved. This can come in many forms, one of which is the use of white hat hackers, these are hackers that work under the law and will hack systems in order to test for any vulnerabilites within the system, by having a white hat hack a system and give the feedback, it allows for all aspects of the system to be covered. 
 
 
 

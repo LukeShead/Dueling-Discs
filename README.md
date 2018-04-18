@@ -54,7 +54,9 @@ On top of this, I will need a constant internet connection with access to a sear
 The scope of the game is simple and the features that are within the scope are not too complex, because of this the scope of the project is quite small. Unity will cover a lot of the features that i will want to immplement, this will include angles as well as physics and objects, with all this the scope becomes easier to manage. The game must stay like pong in its style so the scope will be the athstetics, style and gameplay, as the features are very basic the scope of the project is managable.
 
 
-## Time management and Schedule,
+## Time management
+
+The time management will use a Gantt chart to help figure out when the progress that the project will be taking, because of this it means that when completing the project there can be many different tasks and objectives that can be kept track of using the gantt chart. By using this I will be able to check at what point I should be on with the progression of the project and then look where I am at from that time. This will let me see whether or not I am keeping up for falling behind and I can adjust my schedule accordingly. 
 
 ![Gantt Chart](https://github.com/LukeShead/Dueling-Discs/blob/master/Gantt%20Chart.jpg)
 

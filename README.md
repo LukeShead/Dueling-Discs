@@ -80,6 +80,8 @@ With this project there are many risks that are involved with it, this can come 
 ## Communication,
 I am not working in a team for building the game, however the planning stage can be done with other people that are with me as they can give me ideas of how to improve the game, as well as this any chances to have more ideas I can communicate with them some more. As well as this if I need help with any part of the development or testing I can ask for help with people in my class. Also when doing research for the game, I will be presenting a demo to people in an attempt to do survey to see how I can improve the game.
 
+If I was to communicate with people during the project, for example the client or team, the communication would be a constant within the project, the communication that I would be using could be through emails, calls through softwares like skype or meetings where demos and progress can be checked. This means that the client and the developer would be constantly communicating to make sure that the game is still going so that the client can make sure that it is still what they want. Communication is very important when completing a project especially when it is for someone else as their standards will be alot different than other people so communication is very important.
+
 
 # Feasibility Report
 

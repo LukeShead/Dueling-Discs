@@ -51,14 +51,12 @@ On top of this, I will need a constant internet connection with access to a sear
 
 ## Scope of the game
 
-The scope of the project is purely shown by the features that are within the game, depending on if I decide to add any features later, the scope could be bigger however at the moment, the scope is not too big. Unity will cover a lot of the features that i will want to immplement, this will include angles as well as physics and objects, with all this the scope becomes easier to manage. The game must stay like pong in its style so the scope will be the athstetics, style and gameplay, as the features are very basic the scope of the project is managable.
+The scope of the game is simple and the features that are within the scope are not too complex, because of this the scope of the project is quite small. Unity will cover a lot of the features that i will want to immplement, this will include angles as well as physics and objects, with all this the scope becomes easier to manage. The game must stay like pong in its style so the scope will be the athstetics, style and gameplay, as the features are very basic the scope of the project is managable.
 
 
 ## Time management and Schedule,
 
 ![Gantt Chart](https://github.com/LukeShead/Dueling-Discs/blob/master/Gantt%20Chart.jpg)
-
-Enter Gantt Chart and Schedule here  TO BE COMPLETED!!!
 
 ## Risks for the project and the contingences
 

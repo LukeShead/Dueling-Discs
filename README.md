@@ -22,9 +22,13 @@ The game will be made in Unity and will be played using keyboard and mouse, howe
 ![2nd concept](https://github.com/LukeShead/Dueling-Discs/blob/master/Concept%20art%202.jpg)
 
 
-# Project managment of game.
+# Project managment plan of game.
 
-## Objective of the Game,
+## Plan
+
+When designing the game, there are many aspects when looking at the different stages of completion that need to be looked at before starting the development plan, 
+
+## Objective of the Game
 
 If the discs are facing each other and collide head on, the winner will be who has bounced the most on the two left and right borders wins the point. However, if one disc collides the side of another disc, that disc will get the point as it has struck a weak spot in the disc. The aim of the game is to get to 10 points before your opponent. 
 

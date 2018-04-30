@@ -26,7 +26,7 @@ The game will be made in Unity and will be played using keyboard and mouse, howe
 
 ## Plan
 
-When designing the game, there are many aspects when looking at the different stages of completion that need to be looked at before starting the development plan, 
+When designing the game, there are many aspects when looking at the different stages of completion that need to be looked at before starting the development plan, here are the aspects of the game I have to look at.
 
 ## Objective of the Game
 
